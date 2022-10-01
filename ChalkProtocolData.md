@@ -2,11 +2,11 @@
 
 2 of those bits will be dedicated to type of data
 
-00 will be for `get`ing data
+`00` will be for `get`ing data
 
-01 will be for `give`ing data
+`01` will be for `give`ing data
 
-10 and 11 are undecided and just there if we want to expand the types of data able to be sent.
+`10` and `11` are undecided and just there if we want to expand the types of data able to be sent.
 
 
 The rest of the data will be JSON
