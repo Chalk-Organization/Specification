@@ -1,7 +1,7 @@
 # First 8 bits
 8 bits will be dedicated to info about the data being sent
 
-2 of those bits will be dedicated to type of data
+The first 2 of those 8 bits will be dedicated to type of data
 
 `00` will be for `get`ing data
 
