@@ -1,3 +1,4 @@
+# First 8 bits
 8 bits will be dedicated to info about the data being sent
 
 2 of those bits will be dedicated to type of data
@@ -8,7 +9,7 @@
 
 `10` and `11` are undecided and just there if we want to expand the types of data able to be sent.
 
-
+# JSON Formats
 
 The rest of the data will be JSON
 
